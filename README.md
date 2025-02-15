@@ -6,14 +6,14 @@ This course provides a unique opportunity for students in the MS in Data Science
 
 ## Team Structure
 
-Select a team captain (with or without help from mentor/instructor/supervisor)
+**Team Members:**
 
-Record your names here in this format-
-1. Team captain name, UNI
-2. Member name, UNI
-3. Member name, UNI
+1. Zhiqi Ma, zm2467
+2. Bingqian Lu, bl2775
+3. Yangruonan Lin, yl5765
+4. Ruobing Zhang, rz2703
 
-and so on.   
+*: Team captain   
 
 ## Instructions
 
