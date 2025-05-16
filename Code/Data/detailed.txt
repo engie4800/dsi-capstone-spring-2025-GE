@@ -1,0 +1,101 @@
+Record ID,Machine ID,Date,Description,Status
+R001,M01,2025-01-26,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R002,M05,2024-12-13,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R003,M06,2024-12-10,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R004,M09,2025-01-25,"Routine lubrication performed; all moving parts functional. Grease levels were checked, and excess was wiped away to prevent contamination.",Pass
+R005,M02,2024-10-07,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R006,M09,2024-05-28,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R007,M08,2024-08-18,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R008,M02,2024-01-15,"Routine inspection found no anomalies. Technicians checked all major components including electrical connections, lubrication points, and safety interlocks.",Pass
+R009,M09,2024-03-01,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R010,M04,2024-01-11,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R011,M02,2024-09-02,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R012,M10,2024-10-18,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R013,M03,2024-12-15,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R014,M03,2024-10-22,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R015,M06,2024-06-13,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R016,M01,2024-07-15,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R017,M04,2024-11-20,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R018,M01,2024-05-21,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R019,M05,2024-01-05,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R020,M05,2024-01-05,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R021,M09,2024-04-01,"Conveyor belt tension verified; running as expected. Tension was adjusted slightly to align with manufacturer specifications, ensuring optimal performance.",Pass
+R022,M05,2024-07-10,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R023,M04,2024-07-19,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R024,M07,2024-08-18,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R025,M04,2024-01-28,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R026,M02,2024-04-19,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R027,M07,2024-08-18,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R028,M02,2024-07-29,"Routine inspection found no anomalies. Technicians checked all major components including electrical connections, lubrication points, and safety interlocks.",Pass
+R029,M07,2024-02-25,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R030,M06,2024-03-14,"Conveyor belt tension verified; running as expected. Tension was adjusted slightly to align with manufacturer specifications, ensuring optimal performance.",Pass
+R031,M02,2024-05-22,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R032,M05,2024-05-05,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R033,M09,2024-02-14,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R034,M04,2024-08-31,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R035,M04,2024-02-21,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R036,M10,2024-08-20,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R037,M02,2024-12-06,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R038,M09,2024-11-01,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R039,M02,2024-11-05,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R040,M02,2025-01-12,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R041,M08,2024-01-24,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R042,M08,2024-01-16,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R043,M05,2024-05-28,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R044,M08,2024-01-16,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R045,M04,2024-08-09,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R046,M03,2024-01-26,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R047,M10,2025-01-24,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R048,M09,2024-03-19,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R049,M08,2024-08-15,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R050,M09,2024-08-09,"Routine lubrication performed; all moving parts functional. Grease levels were checked, and excess was wiped away to prevent contamination.",Pass
+R051,M04,2025-02-13,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R052,M07,2024-12-03,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R053,M02,2024-05-13,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R054,M05,2024-12-07,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R055,M10,2025-02-08,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R056,M10,2024-07-07,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R057,M06,2024-07-17,"Routine inspection found no anomalies. Technicians checked all major components including electrical connections, lubrication points, and safety interlocks.",Pass
+R058,M03,2025-02-18,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R059,M10,2024-06-14,"Routine inspection found no anomalies. Technicians checked all major components including electrical connections, lubrication points, and safety interlocks.",Pass
+R060,M07,2024-03-20,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R061,M10,2024-12-07,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R062,M06,2024-01-26,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R063,M08,2024-06-23,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R064,M03,2024-08-25,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R065,M03,2024-02-10,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R066,M06,2024-02-10,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R067,M06,2024-04-11,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R068,M02,2024-09-05,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R069,M03,2024-07-18,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R070,M01,2024-10-09,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R071,M09,2024-06-11,"Conveyor belt tension verified; running as expected. Tension was adjusted slightly to align with manufacturer specifications, ensuring optimal performance.",Pass
+R072,M03,2024-07-29,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R073,M10,2024-12-21,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R074,M01,2024-11-24,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R075,M10,2024-03-30,"Conveyor belt tension verified; running as expected. Tension was adjusted slightly to align with manufacturer specifications, ensuring optimal performance.",Pass
+R076,M01,2024-08-31,"Routine lubrication performed; all moving parts functional. Grease levels were checked, and excess was wiped away to prevent contamination.",Pass
+R077,M01,2024-04-25,"Routine inspection found no anomalies. Technicians checked all major components including electrical connections, lubrication points, and safety interlocks.",Pass
+R078,M04,2024-01-21,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R079,M06,2024-02-03,"Conveyor belt tension verified; running as expected. Tension was adjusted slightly to align with manufacturer specifications, ensuring optimal performance.",Pass
+R080,M07,2024-02-04,Bearing noise levels checked; no excessive wear observed. Engineers performed ultrasonic analysis and detected no abnormal frequencies.,Pass
+R081,M10,2024-01-02,"Voltage and current levels stable, no electrical faults detected. Insulation resistance measurements confirmed no breakdowns in wiring.",Pass
+R082,M10,2024-01-12,"Safety checks completed; no issues detected. Emergency stop functions tested successfully, and all warning signals were operational.",Pass
+R083,M01,2024-01-12,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R084,M05,2024-02-12,Hydraulic pressure levels consistent; system functioning correctly. Hoses and seals were visually inspected and found to be intact.,Pass
+R085,M04,2024-09-26,"System performance verified; all readings within acceptable limits. Heat dissipation was measured, and thermal imaging indicated no hotspots.",Pass
+R086,M04,2025-01-04,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R087,M07,2024-10-10,"Routine inspection found no anomalies. Technicians checked all major components including electrical connections, lubrication points, and safety interlocks.",Pass
+R088,M04,2024-04-20,"Equipment checked and operating within normal parameters. No excessive wear detected in gears or bearings, and all fluid levels were within the recommended range.",Pass
+R089,M05,2024-06-02,"No maintenance required; system running smoothly. Operators verified that all sensor readings were within acceptable limits, and no abnormal vibrations were recorded.",Pass
+R090,M02,2024-06-20,"Routine inspection found no anomalies. Technicians checked all major components including electrical connections, lubrication points, and safety interlocks.",Pass
+R091,M04,2024-01-31,"Gearbox realigned after detecting vibration anomalies. A misalignment was detected in the coupling, causing excessive wear on the drive gears. The alignment was corrected, and noise levels were significantly reduced.",Completed
+R092,M08,2024-02-28,"Hydraulic fluid replenished following a minor leak detection. Traces of oil were found near a connection joint, leading to a replacement of worn seals and refilling of hydraulic fluid. A pressure test confirmed a successful fix.",Completed
+R093,M05,2024-03-05,"Hydraulic fluid replenished following a minor leak detection. Traces of oil were found near a connection joint, leading to a replacement of worn seals and refilling of hydraulic fluid. A pressure test confirmed a successful fix.",Completed
+R094,M07,2024-04-07,"Gearbox realigned after detecting vibration anomalies. A misalignment was detected in the coupling, causing excessive wear on the drive gears. The alignment was corrected, and noise levels were significantly reduced.",Completed
+R095,M07,2024-02-24,"Motor bearings lubricated after increased noise levels were detected. A vibration analysis confirmed higher-than-normal readings, prompting the lubrication. Post-maintenance tests indicated a reduction in noise and improved efficiency.",Completed
+R096,M03,2025-01-09,"Pump seals replaced to resolve a detected minor leak. Pressure fluctuations indicated a slow leak, which was pinpointed to worn-out seals. New seals were installed, and a high-pressure test confirmed successful repair.",Completed
+R097,M03,2024-06-27,"Electrical panel wiring inspected and secured after abnormal readings. A voltage drop was detected in one of the power lines, prompting technicians to tighten all terminal connections and replace a partially corroded wire.",Completed
+R098,M09,2024-03-22,"Electrical panel wiring inspected and secured after abnormal readings. A voltage drop was detected in one of the power lines, prompting technicians to tighten all terminal connections and replace a partially corroded wire.",Completed
+R099,M03,2024-04-28,"Gearbox realigned after detecting vibration anomalies. A misalignment was detected in the coupling, causing excessive wear on the drive gears. The alignment was corrected, and noise levels were significantly reduced.",Completed
+R100,M02,2024-05-17,"Pump seals replaced to resolve a detected minor leak. Pressure fluctuations indicated a slow leak, which was pinpointed to worn-out seals. New seals were installed, and a high-pressure test confirmed successful repair.",Completed
