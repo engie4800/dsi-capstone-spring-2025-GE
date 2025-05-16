@@ -1,0 +1,101 @@
+Record ID,Machine ID,Date,Description,Status
+R001,M08,2024-04-01,Routine inspection found no anomalies.,Pass
+R002,M03,2024-08-06,Equipment checked and operating within normal parameters.,Pass
+R003,M03,2024-12-18,Routine lubrication performed; all moving parts functional.,Pass
+R004,M05,2025-02-17,System performance verified; all readings within acceptable limits.,Pass
+R005,M09,2024-07-01,System performance verified; all readings within acceptable limits.,Pass
+R006,M04,2024-07-19,System performance verified; all readings within acceptable limits.,Pass
+R007,M08,2024-03-11,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R008,M07,2024-11-28,Routine lubrication performed; all moving parts functional.,Pass
+R009,M02,2024-02-04,"Voltage and current levels stable, no electrical faults detected.",Pass
+R010,M06,2024-01-25,"Voltage and current levels stable, no electrical faults detected.",Pass
+R011,M05,2024-07-23,Routine lubrication performed; all moving parts functional.,Pass
+R012,M10,2024-10-13,Routine inspection found no anomalies.,Pass
+R013,M02,2024-05-10,Conveyor belt tension verified; running as expected.,Pass
+R014,M01,2024-06-14,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R015,M05,2024-11-01,"Voltage and current levels stable, no electrical faults detected.",Pass
+R016,M07,2024-11-30,No maintenance required; system running smoothly.,Pass
+R017,M06,2024-06-19,Safety checks completed; no issues detected.,Pass
+R018,M10,2024-06-18,Bearing noise levels checked; no excessive wear observed.,Pass
+R019,M08,2024-01-28,Safety checks completed; no issues detected.,Pass
+R020,M08,2024-09-24,Safety checks completed; no issues detected.,Pass
+R021,M08,2024-10-22,System performance verified; all readings within acceptable limits.,Pass
+R022,M03,2024-07-29,Equipment checked and operating within normal parameters.,Pass
+R023,M08,2024-02-18,Conveyor belt tension verified; running as expected.,Pass
+R024,M09,2024-11-19,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R025,M09,2024-03-27,"Voltage and current levels stable, no electrical faults detected.",Pass
+R026,M09,2024-04-24,"Voltage and current levels stable, no electrical faults detected.",Pass
+R027,M10,2024-07-16,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R028,M05,2025-01-12,Equipment checked and operating within normal parameters.,Pass
+R029,M08,2025-01-27,Bearing noise levels checked; no excessive wear observed.,Pass
+R030,M10,2024-04-13,No maintenance required; system running smoothly.,Pass
+R031,M04,2024-05-28,Conveyor belt tension verified; running as expected.,Pass
+R032,M06,2024-05-28,Bearing noise levels checked; no excessive wear observed.,Pass
+R033,M04,2024-01-05,Conveyor belt tension verified; running as expected.,Pass
+R034,M06,2024-01-25,Safety checks completed; no issues detected.,Pass
+R035,M02,2024-01-11,"Voltage and current levels stable, no electrical faults detected.",Pass
+R036,M06,2024-04-27,System performance verified; all readings within acceptable limits.,Pass
+R037,M05,2024-05-27,Conveyor belt tension verified; running as expected.,Pass
+R038,M02,2024-09-08,System performance verified; all readings within acceptable limits.,Pass
+R039,M07,2024-05-02,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R040,M08,2025-01-01,Routine lubrication performed; all moving parts functional.,Pass
+R041,M08,2024-06-25,Bearing noise levels checked; no excessive wear observed.,Pass
+R042,M10,2024-04-17,System performance verified; all readings within acceptable limits.,Pass
+R043,M01,2024-03-25,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R044,M07,2024-01-29,"Voltage and current levels stable, no electrical faults detected.",Pass
+R045,M04,2024-10-30,Safety checks completed; no issues detected.,Pass
+R046,M07,2024-09-05,Safety checks completed; no issues detected.,Pass
+R047,M09,2024-12-28,Equipment checked and operating within normal parameters.,Pass
+R048,M02,2024-10-05,"Voltage and current levels stable, no electrical faults detected.",Pass
+R049,M09,2024-12-06,Conveyor belt tension verified; running as expected.,Pass
+R050,M08,2024-04-10,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R051,M10,2024-08-03,Bearing noise levels checked; no excessive wear observed.,Pass
+R052,M07,2024-11-16,"Voltage and current levels stable, no electrical faults detected.",Pass
+R053,M06,2024-10-18,Safety checks completed; no issues detected.,Pass
+R054,M10,2024-10-24,Equipment checked and operating within normal parameters.,Pass
+R055,M03,2024-05-19,"Voltage and current levels stable, no electrical faults detected.",Pass
+R056,M05,2024-05-22,System performance verified; all readings within acceptable limits.,Pass
+R057,M10,2024-12-28,"Voltage and current levels stable, no electrical faults detected.",Pass
+R058,M10,2025-02-07,"Voltage and current levels stable, no electrical faults detected.",Pass
+R059,M09,2024-01-04,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R060,M09,2024-02-12,System performance verified; all readings within acceptable limits.,Pass
+R061,M08,2024-09-28,Routine inspection found no anomalies.,Pass
+R062,M01,2024-08-03,Bearing noise levels checked; no excessive wear observed.,Pass
+R063,M05,2025-01-10,System performance verified; all readings within acceptable limits.,Pass
+R064,M01,2024-11-14,Routine lubrication performed; all moving parts functional.,Pass
+R065,M06,2024-07-16,Routine lubrication performed; all moving parts functional.,Pass
+R066,M06,2024-09-02,Equipment checked and operating within normal parameters.,Pass
+R067,M01,2024-10-30,Safety checks completed; no issues detected.,Pass
+R068,M06,2024-10-23,Bearing noise levels checked; no excessive wear observed.,Pass
+R069,M02,2024-11-12,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R070,M02,2024-04-20,No maintenance required; system running smoothly.,Pass
+R071,M07,2024-12-13,No maintenance required; system running smoothly.,Pass
+R072,M05,2024-05-31,System performance verified; all readings within acceptable limits.,Pass
+R073,M07,2024-12-17,Equipment checked and operating within normal parameters.,Pass
+R074,M06,2024-03-27,Safety checks completed; no issues detected.,Pass
+R075,M04,2024-11-03,Conveyor belt tension verified; running as expected.,Pass
+R076,M08,2024-02-12,Routine inspection found no anomalies.,Pass
+R077,M04,2024-05-06,Bearing noise levels checked; no excessive wear observed.,Pass
+R078,M07,2024-12-30,"Voltage and current levels stable, no electrical faults detected.",Pass
+R079,M05,2025-02-03,"Voltage and current levels stable, no electrical faults detected.",Pass
+R080,M02,2024-03-15,Conveyor belt tension verified; running as expected.,Pass
+R081,M06,2024-03-24,System performance verified; all readings within acceptable limits.,Pass
+R082,M03,2025-02-01,Bearing noise levels checked; no excessive wear observed.,Pass
+R083,M07,2024-04-24,Routine lubrication performed; all moving parts functional.,Pass
+R084,M03,2024-02-23,System performance verified; all readings within acceptable limits.,Pass
+R085,M05,2024-05-12,System performance verified; all readings within acceptable limits.,Pass
+R086,M05,2024-09-16,System performance verified; all readings within acceptable limits.,Pass
+R087,M10,2025-01-04,Hydraulic pressure levels consistent; system functioning correctly.,Pass
+R088,M08,2024-06-03,System performance verified; all readings within acceptable limits.,Pass
+R089,M02,2024-09-26,Bearing noise levels checked; no excessive wear observed.,Pass
+R090,M10,2024-04-26,Bearing noise levels checked; no excessive wear observed.,Pass
+R091,M08,2024-12-13,Gearbox realigned after detecting vibration anomalies.,Completed
+R092,M05,2024-06-06,Air filter replaced after detecting reduced airflow efficiency.,Completed
+R093,M07,2025-01-22,Faulty relay switch replaced after intermittent failures observed.,Completed
+R094,M03,2024-01-27,Pump seals replaced to resolve a detected minor leak.,Completed
+R095,M03,2025-02-05,System recalibrated following minor deviations in sensor readings.,Completed
+R096,M01,2024-02-20,Faulty relay switch replaced after intermittent failures observed.,Completed
+R097,M10,2024-11-01,Air filter replaced after detecting reduced airflow efficiency.,Completed
+R098,M04,2024-09-08,Technicians replaced a worn-out belt to prevent further degradation.,Completed
+R099,M08,2024-07-16,System recalibrated following minor deviations in sensor readings.,Completed
+R100,M06,2024-09-01,Technicians replaced a worn-out belt to prevent further degradation.,Completed
